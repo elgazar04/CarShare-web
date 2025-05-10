@@ -21,7 +21,6 @@ CarShare/
 │   ├── CarShare.API/           # API Controllers and Middleware
 │   ├── CarShare.BLL/           # Business Logic Layer
 │   ├── CarShare.DAL/           # Data Access Layer
-│   └── CarShare.Common/        # Shared Models and Utilities
 └── Frontend/
     ├── public/
     └── src/
