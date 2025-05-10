@@ -61,7 +61,7 @@ dotnet run --project CarShare.API
 
 The database will be automatically created and updated using Entity Framework Core migrations when you run the application.
 
-The API will be available at `https://localhost:5001` or `http://localhost:5000`
+The API will be available at `http://localhost:5023`
 
 ### Frontend Setup
 
@@ -80,7 +80,7 @@ npm install
 npm run dev
 ```
 
-The frontend will be available at `http://localhost:3000`
+The frontend will be available at `http://localhost:5173/`
 
 ## Features
 
