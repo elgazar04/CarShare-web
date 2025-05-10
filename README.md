@@ -49,8 +49,6 @@ CarShare/
 
 2. **Run Backend**
 ```bash
-# Navigate to the backend directory
-cd CarShareBackend-master
 
 # Restore dependencies
 dotnet restore
