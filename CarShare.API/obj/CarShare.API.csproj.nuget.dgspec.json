@@ -1,0 +1,239 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\FCIH\\6th term\\IA\\copies of ia project\\Final Final\\CarShareBackend-master\\CarShare.API\\CarShare.API.csproj": {}
+  },
+  "projects": {
+    "E:\\FCIH\\6th term\\IA\\copies of ia project\\Final Final\\CarShareBackend-master\\CarShare.API\\CarShare.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\FCIH\\6th term\\IA\\copies of ia project\\Final Final\\CarShareBackend-master\\CarShare.API\\CarShare.API.csproj",
+        "projectName": "CarShare.API",
+        "projectPath": "E:\\FCIH\\6th term\\IA\\copies of ia project\\Final Final\\CarShareBackend-master\\CarShare.API\\CarShare.API.csproj",
+        "packagesPath": "C:\\Users\\melga\\.nuget\\packages\\",
+        "outputPath": "E:\\FCIH\\6th term\\IA\\copies of ia project\\Final Final\\CarShareBackend-master\\CarShare.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\melga\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\sdk\\7.0.317\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\FCIH\\6th term\\IA\\copies of ia project\\Final Final\\CarShareBackend-master\\CarShare.BLL\\CarShare.BLL.csproj": {
+                "projectPath": "E:\\FCIH\\6th term\\IA\\copies of ia project\\Final Final\\CarShareBackend-master\\CarShare.BLL\\CarShare.BLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Microsoft.AspNetCore.SignalR.Core": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.317\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\FCIH\\6th term\\IA\\copies of ia project\\Final Final\\CarShareBackend-master\\CarShare.BLL\\CarShare.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\FCIH\\6th term\\IA\\copies of ia project\\Final Final\\CarShareBackend-master\\CarShare.BLL\\CarShare.BLL.csproj",
+        "projectName": "CarShare.BLL",
+        "projectPath": "E:\\FCIH\\6th term\\IA\\copies of ia project\\Final Final\\CarShareBackend-master\\CarShare.BLL\\CarShare.BLL.csproj",
+        "packagesPath": "C:\\Users\\melga\\.nuget\\packages\\",
+        "outputPath": "E:\\FCIH\\6th term\\IA\\copies of ia project\\Final Final\\CarShareBackend-master\\CarShare.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\melga\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\FCIH\\6th term\\IA\\copies of ia project\\Final Final\\CarShareBackend-master\\CarShare.DAL\\CarShare.DAL.csproj": {
+                "projectPath": "E:\\FCIH\\6th term\\IA\\copies of ia project\\Final Final\\CarShareBackend-master\\CarShare.DAL\\CarShare.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.Cryptography.KeyDerivation": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.317\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\FCIH\\6th term\\IA\\copies of ia project\\Final Final\\CarShareBackend-master\\CarShare.DAL\\CarShare.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\FCIH\\6th term\\IA\\copies of ia project\\Final Final\\CarShareBackend-master\\CarShare.DAL\\CarShare.DAL.csproj",
+        "projectName": "CarShare.DAL",
+        "projectPath": "E:\\FCIH\\6th term\\IA\\copies of ia project\\Final Final\\CarShareBackend-master\\CarShare.DAL\\CarShare.DAL.csproj",
+        "packagesPath": "C:\\Users\\melga\\.nuget\\packages\\",
+        "outputPath": "E:\\FCIH\\6th term\\IA\\copies of ia project\\Final Final\\CarShareBackend-master\\CarShare.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\melga\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.317\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

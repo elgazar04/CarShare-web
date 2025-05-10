@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "B+JnQ3R8TI1nZramX5gitg/wQMd3QQhKWkbzHn0aQrI=",
+  "Source": "CarShare.API",
+  "BasePath": "_content/CarShare.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

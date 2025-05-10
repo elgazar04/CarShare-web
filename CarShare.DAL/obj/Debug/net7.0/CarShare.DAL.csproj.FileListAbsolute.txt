@@ -1,0 +1,14 @@
+E:\FCIH\6th term\IA\copies of ia project\Final Final\CarShareBackend-master\CarShare.DAL\bin\Debug\net7.0\CarShare.DAL.deps.json
+E:\FCIH\6th term\IA\copies of ia project\Final Final\CarShareBackend-master\CarShare.DAL\bin\Debug\net7.0\CarShare.DAL.runtimeconfig.json
+E:\FCIH\6th term\IA\copies of ia project\Final Final\CarShareBackend-master\CarShare.DAL\bin\Debug\net7.0\CarShare.DAL.dll
+E:\FCIH\6th term\IA\copies of ia project\Final Final\CarShareBackend-master\CarShare.DAL\bin\Debug\net7.0\CarShare.DAL.pdb
+E:\FCIH\6th term\IA\copies of ia project\Final Final\CarShareBackend-master\CarShare.DAL\obj\Debug\net7.0\CarShare.DAL.csproj.AssemblyReference.cache
+E:\FCIH\6th term\IA\copies of ia project\Final Final\CarShareBackend-master\CarShare.DAL\obj\Debug\net7.0\CarShare.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\FCIH\6th term\IA\copies of ia project\Final Final\CarShareBackend-master\CarShare.DAL\obj\Debug\net7.0\CarShare.DAL.AssemblyInfoInputs.cache
+E:\FCIH\6th term\IA\copies of ia project\Final Final\CarShareBackend-master\CarShare.DAL\obj\Debug\net7.0\CarShare.DAL.AssemblyInfo.cs
+E:\FCIH\6th term\IA\copies of ia project\Final Final\CarShareBackend-master\CarShare.DAL\obj\Debug\net7.0\CarShare.DAL.csproj.CoreCompileInputs.cache
+E:\FCIH\6th term\IA\copies of ia project\Final Final\CarShareBackend-master\CarShare.DAL\obj\Debug\net7.0\CarShare.DAL.dll
+E:\FCIH\6th term\IA\copies of ia project\Final Final\CarShareBackend-master\CarShare.DAL\obj\Debug\net7.0\refint\CarShare.DAL.dll
+E:\FCIH\6th term\IA\copies of ia project\Final Final\CarShareBackend-master\CarShare.DAL\obj\Debug\net7.0\CarShare.DAL.pdb
+E:\FCIH\6th term\IA\copies of ia project\Final Final\CarShareBackend-master\CarShare.DAL\obj\Debug\net7.0\CarShare.DAL.genruntimeconfig.cache
+E:\FCIH\6th term\IA\copies of ia project\Final Final\CarShareBackend-master\CarShare.DAL\obj\Debug\net7.0\ref\CarShare.DAL.dll
