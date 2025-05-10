@@ -135,3 +135,13 @@ The frontend will be available at `http://localhost:3000`
 - ❌ User feedback submission
 - ❌ Feedback display on car posts
 - ❌ Rental history verification for feedback
+
+## Real-time Features
+### WebSocket Chat System ✅
+The application implements a real-time chat system using SignalR WebSockets, enabling:
+- Direct messaging between users about specific cars
+- Real-time message delivery
+- Message persistence
+- Online/offline status tracking
+- Automatic reconnection handling
+
